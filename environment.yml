@@ -1,0 +1,4 @@
+name: file_sharing
+channels:
+  - conda-forge
+prefix: /home/marc/mambaforge/envs/file_sharing
